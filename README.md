@@ -1,7 +1,10 @@
 # BewaesserungsPi
 
-## Installation: 
+## Installation
 
 ``sudo apt install nodejs``<br>
 ``sudo apt install npm``<br>
-``git clone https://github.com/Icheb1/WateringPlantsPi.git``
+``npm install onoff``<br>
+``git clone https://github.com/pichfl/spi-device-mcp3008``<br>
+``git clone https://github.com/Icheb1/WateringPlantsPi``<br>
+
