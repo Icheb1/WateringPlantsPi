@@ -1,3 +1,6 @@
 # BewaesserungsPi
 
-Installation: 
+## Installation: 
+
+``sudo apt install nodejs``
+``sudo apt install npm``
