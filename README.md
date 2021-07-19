@@ -2,9 +2,11 @@
 
 ## Installation
 
-``sudo apt install nodejs``<br>
-``sudo apt install npm``<br>
-``npm install onoff``<br>
-``git clone https://github.com/pichfl/spi-device-mcp3008``<br>
-``git clone https://github.com/Icheb1/WateringPlantsPi``<br>
+```sh
+sudo apt install nodejs npm
 
+npm install onoff
+
+git clone https://github.com/pichfl/spi-device-mcp3008
+git clone https://github.com/Icheb1/WateringPlantsPi
+```
