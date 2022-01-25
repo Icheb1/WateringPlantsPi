@@ -1,4 +1,4 @@
-# BewaesserungsPi
+# Watering Plants with a Raspberry Pi
 
 This is by no means finished, but all of my raspberry pis are running other stuff, so this project is paused.
 
