@@ -1,5 +1,7 @@
 # BewaesserungsPi
 
+This is by no means finished, but all of my raspberry pis are running other stuff, so this project is paused.
+
 ## Installation
 
 ```sh
